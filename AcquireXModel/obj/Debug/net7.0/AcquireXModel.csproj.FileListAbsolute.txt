@@ -1,0 +1,24 @@
+C:\Users\tpbad\source\repos\AcquireXModel\bin\Debug\net7.0\AcquireXModel.deps.json
+C:\Users\tpbad\source\repos\AcquireXModel\bin\Debug\net7.0\AcquireXModel.dll
+C:\Users\tpbad\source\repos\AcquireXModel\bin\Debug\net7.0\AcquireXModel.pdb
+C:\Users\tpbad\source\repos\AcquireXModel\obj\Debug\net7.0\AcquireXModel.csproj.AssemblyReference.cache
+C:\Users\tpbad\source\repos\AcquireXModel\obj\Debug\net7.0\AcquireXModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpbad\source\repos\AcquireXModel\obj\Debug\net7.0\AcquireXModel.AssemblyInfoInputs.cache
+C:\Users\tpbad\source\repos\AcquireXModel\obj\Debug\net7.0\AcquireXModel.AssemblyInfo.cs
+C:\Users\tpbad\source\repos\AcquireXModel\obj\Debug\net7.0\AcquireXModel.csproj.CoreCompileInputs.cache
+C:\Users\tpbad\source\repos\AcquireXModel\obj\Debug\net7.0\AcquireXModel.dll
+C:\Users\tpbad\source\repos\AcquireXModel\obj\Debug\net7.0\refint\AcquireXModel.dll
+C:\Users\tpbad\source\repos\AcquireXModel\obj\Debug\net7.0\AcquireXModel.pdb
+C:\Users\tpbad\source\repos\AcquireXModel\obj\Debug\net7.0\ref\AcquireXModel.dll
+C:\Users\tpbad\Desktop\POc\New folder\AcquireXModel\bin\Debug\net7.0\AcquireXModel.deps.json
+C:\Users\tpbad\Desktop\POc\New folder\AcquireXModel\bin\Debug\net7.0\AcquireXModel.dll
+C:\Users\tpbad\Desktop\POc\New folder\AcquireXModel\bin\Debug\net7.0\AcquireXModel.pdb
+C:\Users\tpbad\Desktop\POc\New folder\AcquireXModel\obj\Debug\net7.0\AcquireXModel.csproj.AssemblyReference.cache
+C:\Users\tpbad\Desktop\POc\New folder\AcquireXModel\obj\Debug\net7.0\AcquireXModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpbad\Desktop\POc\New folder\AcquireXModel\obj\Debug\net7.0\AcquireXModel.AssemblyInfoInputs.cache
+C:\Users\tpbad\Desktop\POc\New folder\AcquireXModel\obj\Debug\net7.0\AcquireXModel.AssemblyInfo.cs
+C:\Users\tpbad\Desktop\POc\New folder\AcquireXModel\obj\Debug\net7.0\AcquireXModel.csproj.CoreCompileInputs.cache
+C:\Users\tpbad\Desktop\POc\New folder\AcquireXModel\obj\Debug\net7.0\AcquireXModel.dll
+C:\Users\tpbad\Desktop\POc\New folder\AcquireXModel\obj\Debug\net7.0\refint\AcquireXModel.dll
+C:\Users\tpbad\Desktop\POc\New folder\AcquireXModel\obj\Debug\net7.0\AcquireXModel.pdb
+C:\Users\tpbad\Desktop\POc\New folder\AcquireXModel\obj\Debug\net7.0\ref\AcquireXModel.dll

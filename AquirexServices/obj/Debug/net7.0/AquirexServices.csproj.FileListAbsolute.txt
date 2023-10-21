@@ -1,0 +1,30 @@
+C:\Users\tpbad\source\repos\AquirexServices\obj\Debug\net7.0\AquirexServices.csproj.AssemblyReference.cache
+C:\Users\tpbad\source\repos\AquirexServices\obj\Debug\net7.0\AquirexServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpbad\source\repos\AquirexServices\obj\Debug\net7.0\AquirexServices.AssemblyInfoInputs.cache
+C:\Users\tpbad\source\repos\AquirexServices\obj\Debug\net7.0\AquirexServices.AssemblyInfo.cs
+C:\Users\tpbad\source\repos\AquirexServices\obj\Debug\net7.0\AquirexServices.csproj.CoreCompileInputs.cache
+C:\Users\tpbad\source\repos\AquirexServices\bin\Debug\net7.0\AquirexServices.deps.json
+C:\Users\tpbad\source\repos\AquirexServices\bin\Debug\net7.0\AquirexServices.dll
+C:\Users\tpbad\source\repos\AquirexServices\bin\Debug\net7.0\AquirexServices.pdb
+C:\Users\tpbad\source\repos\AquirexServices\bin\Debug\net7.0\AcquireXModel.dll
+C:\Users\tpbad\source\repos\AquirexServices\bin\Debug\net7.0\AcquireXModel.pdb
+C:\Users\tpbad\source\repos\AquirexServices\obj\Debug\net7.0\AquirexServices.csproj.CopyComplete
+C:\Users\tpbad\source\repos\AquirexServices\obj\Debug\net7.0\AquirexServices.dll
+C:\Users\tpbad\source\repos\AquirexServices\obj\Debug\net7.0\refint\AquirexServices.dll
+C:\Users\tpbad\source\repos\AquirexServices\obj\Debug\net7.0\AquirexServices.pdb
+C:\Users\tpbad\source\repos\AquirexServices\obj\Debug\net7.0\ref\AquirexServices.dll
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\bin\Debug\net7.0\AquirexServices.deps.json
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\bin\Debug\net7.0\AquirexServices.dll
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\bin\Debug\net7.0\AquirexServices.pdb
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\bin\Debug\net7.0\AcquireXModel.dll
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\bin\Debug\net7.0\AcquireXModel.pdb
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\obj\Debug\net7.0\AquirexServices.csproj.AssemblyReference.cache
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\obj\Debug\net7.0\AquirexServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\obj\Debug\net7.0\AquirexServices.AssemblyInfoInputs.cache
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\obj\Debug\net7.0\AquirexServices.AssemblyInfo.cs
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\obj\Debug\net7.0\AquirexServices.csproj.CoreCompileInputs.cache
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\obj\Debug\net7.0\AquirexServices.csproj.CopyComplete
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\obj\Debug\net7.0\AquirexServices.dll
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\obj\Debug\net7.0\refint\AquirexServices.dll
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\obj\Debug\net7.0\AquirexServices.pdb
+C:\Users\tpbad\Desktop\POc\New folder\AquirexServices\obj\Debug\net7.0\ref\AquirexServices.dll
